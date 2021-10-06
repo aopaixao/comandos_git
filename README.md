@@ -1,8 +1,7 @@
 # Lista de comandos GIT
 
-```bash
 ## Iniciando um novo projeto local a partir de um repositório vazio existente no GIT
-
+```bash
 git init
 git remote add origin git@github.com:<YOUR_REPOSITORY_ADDRESS>
 git add .
